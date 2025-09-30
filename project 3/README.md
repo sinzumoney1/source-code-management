@@ -4,7 +4,7 @@
    
    SVN (CVCS):
 
-[+]Single central repository on a server.
+[+]Single central repositogry on a server.
 
 [+]Developers check out a working copy and commit changes directly to the central server.
 
