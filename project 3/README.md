@@ -5,7 +5,7 @@
    SVN (CVCS):
 
 [+]Single central repositogry on a server.
-
+git check
 [+]Developers check out a working copy and commit changes directly to the central server.
 
 [+]No full history on developer machines.
